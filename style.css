@@ -39,8 +39,8 @@ body{
     width: 80%;
     font-size: 24px;
     font-weight: 500;
-    text-transform: uppercase;
     padding-left: 32px;
+    text-transform: none;
 }
 
 .search-box input::placeholder{
